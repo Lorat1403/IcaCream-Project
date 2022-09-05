@@ -3,20 +3,20 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://Lorat1403.github.io/IceCream-Project",
+  "homepage": "https://Lorat1403.github.io/Icecream-Project",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /IceCream-Project/"
+    "build": "parcel build src/*.html --public-url /Icecream-Project/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lorat1403/IceCream-Project.git"
+    "url": "git+https://github.com/Lorat1403/Icecream-Project.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Lorat1403/IceCream-Project/issues"
+    "url": "https://github.com/Lorat1403/Icecream-Project/issues"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.5",
